@@ -1,5 +1,7 @@
 <h1 align="center" style="font-size: 60px"> DDRIVE </h1>
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/forscht/ddrive)
+
 <p align="center"><strong> Turn Discord into a datastore that can manage and store your files. </strong></p>
 <p align="center">
     <a href="https://discord.gg/3TCZRYafhW">
